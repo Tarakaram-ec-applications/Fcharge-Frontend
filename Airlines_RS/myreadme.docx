@@ -1,0 +1,10 @@
+Hellow this is my remote changes
+git add from working to staging area
+beofre commit we need to config user name and email for first time of the project
+git commit changes from staging to local repository
+
+then seup link with github file path
+with oragnization ,repository team ,group
+onec steup
+we can push the code from local to remote desktop
+
