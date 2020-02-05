@@ -1,3 +1,6 @@
+----
+this new line changes
+=======================================================================
 Hellow this is my remote changes
 git add from working to staging area
 beofre commit we need to config user name and email for first time of the project
